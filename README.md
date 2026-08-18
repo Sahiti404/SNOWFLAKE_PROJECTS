@@ -35,7 +35,7 @@ To run any SQL script inside this repository:
 
 2.Navigate to the Desired Folder: Open the target project directory.
 
-3. Execute in Snowflake:
+3.Execute in Snowflake:
 
     Open your Snowflake Worksheets interface (Snowsight).
     
