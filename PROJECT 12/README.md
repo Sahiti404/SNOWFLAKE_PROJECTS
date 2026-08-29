@@ -1,10 +1,17 @@
-**Project 12 — Enterprise Retail Analytics Data Warehouse**
+# Project 12 — Enterprise Retail Analytics Data Warehouse
 
-📌 **Project Explanation**
+## 📌 Project Explanation
 
-This project focuses on building an Enterprise Retail Analytics Data Warehouse using Snowflake. The retail data is organized into RAW tables, Dimension tables, and a Fact table following Kimball Dimensional Modeling.
+This project builds an **Enterprise Retail Analytics Data Warehouse** using **Snowflake** and **Kimball Dimensional Modeling**.
 
-The project demonstrates Slowly Changing Dimensions (SCD Type 1, Type 2, Type 3, and Type 6) to manage customer and store changes while preserving required historical information. It also includes point-in-time sales analysis and data validation/auditing.
+### Key Areas Covered
+
+- **Data Architecture** — RAW, Dimension, and Fact tables
+- **Dimensional Modeling** — Fact and Dimension table design
+- **Slowly Changing Dimensions** — SCD Type 1, Type 2, Type 3, and Type 6
+- **Historical Data Tracking** — Maintaining customer and store changes
+- **Point-in-Time Analytics** — Analyzing sales using historical customer attributes
+- **Data Validation** — Record count and warehouse auditing
 
 ## 🛠️ Technology Used
 
